@@ -1,4 +1,8 @@
-print("Hello Python")
+'''
+AUTHOR:Alex roy
+Date: 01-10-2024
+Python program to get the student details
+'''
 name=input("enter the student name:")
 roll_number=int(input("Enter roll number:"))
 roll_number=roll_number+1
