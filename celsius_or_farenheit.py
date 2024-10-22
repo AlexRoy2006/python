@@ -1,7 +1,7 @@
 '''
 AUTHOR:Alex roy
 Date: 22-10-2024
-Python program to calculate largest of three numbers
+Python program to change Celsius into Farenheit and vice versa
 '''
 temp=float(input("Enter temperature:"))
 cf=input("Is this in (C)elsius or (F)arenheit")
